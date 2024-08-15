@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+
+
+#cardapio{
+
+    text-align: center;
+  
+    top: 50%;
+   display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 450px;
+ height: 500px;
+
+
+
+
+}
+
+#voltar{
+
+    display: flex;
+ 
+
+}

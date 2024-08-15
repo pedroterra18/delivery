@@ -1,0 +1,69 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+#cinza{
+    background-color: #969696;
+  
+}
+
+#head{
+    display: grid;
+    grid-template-columns: 10% 90%;
+    grid-template-rows: 70px 5px;
+    background-color: #ffffff;
+}
+
+.vazio{
+    width: 5%;
+}
+
+#branco{
+    position: relative;
+}
+
+#pi{
+    height:50px ;
+    width: 50px;
+    grid-column: 3;
+    grid-row: 3;
+    position: absolute;
+    left: 95%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+}
+
+#vermenho{
+    background-color: red;
+    display: flex;
+    justify-content: space-between;
+}
+    
+
+#tama{
+    width: 20px;
+}
+
+#foto{
+
+    text-align: center;
+  
+    top: 50%;
+   display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 450px;
+ height: 500px;
+ max-height: 5000px;
+
+
+
+
+    
+ 
+}
+
+
+#class{
+    color:white;
+}
