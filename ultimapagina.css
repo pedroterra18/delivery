@@ -1,0 +1,20 @@
+
+body{
+    background-image: url( "fundo.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+
+}
+#voltar{
+    color: white;
+}
+
+#ce{
+    text-align: center;
+    color: white;
+}
+
+    #tr{
+        color: transparent;
+    }
